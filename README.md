@@ -1,5 +1,8 @@
 # EventsDALI
 
+TO RUN:
+	Open in XCode with latest update. Run file in simulator and be sure to set device to iPhone 12 Pro.
+
 Events App
 
 Pitch
